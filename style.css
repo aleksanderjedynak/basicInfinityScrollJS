@@ -1,0 +1,9 @@
+.root{
+    margin: 0 auto;
+    width: 800px;
+}
+
+.root p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
